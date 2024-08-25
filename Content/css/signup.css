@@ -1,0 +1,65 @@
+Body {  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-color: rgb(15, 15, 15);  
+  }  
+  button {   
+         background-color: #0c0c0c;   
+         width: 100%;  
+          color: rgb(255, 255, 255);   
+          padding: 15px;   
+          margin: 10px 0px;   
+          border: none;   
+          cursor: pointer;   
+           }   
+   form {   
+          border: 3px solid #000000;   
+      }   
+   input[type=text], input[type=password] {   
+          width: 100%;   
+          margin: 8px 0;  
+          padding: 12px 20px;   
+          display: inline-block;   
+          border: 2px solid rgb(149, 202, 180);   
+          box-sizing: border-box;   
+      }  
+   button:hover {   
+          opacity: 0.7;   
+      }   
+    .cancelbtn {   
+          width: auto;   
+          padding: 10px 18px;  
+          margin: 10px 5px;  
+      }   
+          
+       
+   .container {   
+          padding: 25px;   
+          background-color: rgb(30, 165, 109);  
+      }   
+
+      a.incubus {
+        text-decoration:none;
+        color:rgb(30, 165, 109);   
+     }
+     
+     fieldset{
+        border: black; 
+        
+        color: #000000;
+        padding-bottom: 19;
+        padding-top: 12;
+        max-width:500px;
+       }
+     a.Terms {
+        text-decoration:none;
+        color:rgb(255, 255, 255);   
+     }
+
+ h2.orta{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif ;
+ }
+
+
+
+
